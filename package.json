@@ -1,0 +1,26 @@
+{
+  "name": "china-area",
+  "version": "1.0.0",
+  "description": "提供一些方法，快速省市区数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthinkingcoder/china-area.git"
+  },
+  "keywords": [
+    "area"
+  ],
+  "author": "anthinkingocder jojo837769723@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthinkingcoder/china-area/issues"
+  },
+  "homepage": "https://github.com/anthinkingcoder/china-area#readme",
+  "dependencies": {
+    "china-area-data": "^4.0.0",
+    "zy-fetch": "^1.6.2"
+  }
+}
